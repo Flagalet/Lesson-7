@@ -3,3 +3,13 @@ C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-7\Задач�
 C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-7\Задача 50\obj\Debug\net6.0\Задача 50.AssemblyInfoInputs.cache
 C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-7\Задача 50\obj\Debug\net6.0\Задача 50.AssemblyInfo.cs
 C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-7\Задача 50\obj\Debug\net6.0\Задача 50.csproj.CoreCompileInputs.cache
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-7\Задача 50\bin\Debug\net6.0\Задача 50.exe
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-7\Задача 50\bin\Debug\net6.0\Задача 50.deps.json
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-7\Задача 50\bin\Debug\net6.0\Задача 50.runtimeconfig.json
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-7\Задача 50\bin\Debug\net6.0\Задача 50.dll
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-7\Задача 50\bin\Debug\net6.0\Задача 50.pdb
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-7\Задача 50\obj\Debug\net6.0\Задача 50.dll
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-7\Задача 50\obj\Debug\net6.0\refint\Задача 50.dll
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-7\Задача 50\obj\Debug\net6.0\Задача 50.pdb
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-7\Задача 50\obj\Debug\net6.0\Задача 50.genruntimeconfig.cache
+C:\Users\Mvideo\Desktop\Учеба\Новая папка\GB\Lesson-7\Задача 50\obj\Debug\net6.0\ref\Задача 50.dll
